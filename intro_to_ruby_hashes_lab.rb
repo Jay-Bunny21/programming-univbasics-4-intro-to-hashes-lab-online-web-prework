@@ -18,7 +18,6 @@ def my_hash_creator(key, value)
   hash = {:name => "Grace Hopper"}
 end
 
-my_hash_creator
   
 
 def read_from_hash(hash, key)
