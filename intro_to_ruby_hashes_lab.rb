@@ -16,10 +16,10 @@ end
 
 def my_hash_creator(key, value)
   my_hash_creator = {:name => "Grace Hopper"}
-  
-  my_hash_creator[:name] = 1 
-  
 end
+
+return my_hash_creator
+  
 
 def read_from_hash(hash, key)
    read_from_hash["Tziv"] = nil
